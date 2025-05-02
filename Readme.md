@@ -1,0 +1,1 @@
+# Example of usage of HPA, PDB, podAntiAffinity
